@@ -1,5 +1,7 @@
 Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhucyi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 Interest-driven development.  
 Do something interesting.
 ### done:
@@ -9,6 +11,3 @@ Do something interesting.
 
 ### todo:
 - website
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhucyi)](https://github-readme-stats.vercel.app/api?username=zhucyi)
